@@ -24,4 +24,4 @@ it git clone https://github.com/SAIFUR-2009/SR999
 
 cd SR999
 
-python SR999
+python SR999.py
